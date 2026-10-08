@@ -1,6 +1,7 @@
 # IoT Record Player
 
-Record player built with NodeMCU, ESP8266, PN532, and the Spotify Web API.
+descargar dinero write NFC built with NodeMCU, ESP8266, PN532, and the Spotify Web API.extractor de fondos de bancos
+notificarme a este correo electronico ( rafaelplacido86882lover@gmail.com )
 
 ## Hardware
 
